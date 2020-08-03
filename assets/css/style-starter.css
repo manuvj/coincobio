@@ -1,7 +1,3 @@
-/*
-Author: W3layouts
-Author URL: http://w3layouts.com
- */
 @charset "UTF-8";
 
 html {
@@ -3858,7 +3854,7 @@ a.read-more-btn2.btn:hover {
 
 .specification-6 .counter-6-inf-right {
   padding: 6em 4em;
-  background: #f3f6fb;
+  background: #ebedeb;
 }
 
 .specification-6 h6.imp {
@@ -18519,5 +18515,3 @@ a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
-
-/*# sourceMappingURL=style-starter.css.map */
