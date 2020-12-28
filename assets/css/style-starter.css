@@ -89,6 +89,18 @@ a.read-more-btn.btn {
   color: #fff;
 }
 
+.redText 
+{ 
+    color: red;
+font-weight:bold;
+font-size:18px;  
+}
+
+.redTextOffer 
+{ 
+    color: red; 
+}  
+
 a.read-more-btn.btn:hover {
   background-color: #28a745;
 }
